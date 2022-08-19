@@ -16,7 +16,7 @@ Formation *GIT*
 ---
 
 '''html
-;<html></html>
+<html></html>
 '''
 
 {Lien}(http://google.fr)
